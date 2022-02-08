@@ -7,7 +7,7 @@ This project pretends to use different libraries and APIs to create a map visual
 
 ## Results
 
-The interactive map shown in here images below. is a combianteion of three diferente data retrieving, Earthquakes past 7 days, tectonic plaques and magnitud
+The interactive map shown in here images below. is a combianteion of three diferente data retrieving, Earthquakes past 7 days, tectonic plaques and magnitude
 
 
 
